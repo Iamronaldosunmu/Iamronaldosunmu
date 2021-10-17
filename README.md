@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iamronaldosunmu, 16 year old software developer
-- 👀 I’m interested in Coding, music, more coding😅😅
-- 🌱 Html|Css|Vanilla Javascript|Python| currently learning UI/UX design and react.js
+- 👀 I’m interested in fullstack, cloud and mobile engineering. 
+- 🌱 Html|Css|Vanilla Javascript|Python| React.js| currently learning Node. Js. 
 - 💞️ I’m looking to collaborate on some amazing projects, if you have any ideas, hmu on Twitter.
 - 📫 How to reach me :
 Instagram: iamthatronaldosunmu
