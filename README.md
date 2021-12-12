@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iamronaldosunmu, 16 year old software developer
 - 👀 I’m interested in fullstack, cloud and mobile engineering. 
-- 🌱 Html | Css | Vanilla Javascript | Python | React.js| Node.js | Express.js | MongoDB | Mongoose |currently learning Redux and Context api. 
+- 🌱 Html | Css | Vanilla Javascript | Python | React.js| Node.js | Express.js | MongoDB | Mongoose |currently learning Typescript and Redux. 
 - 💞️ I’m looking to collaborate on some amazing projects, if you have any ideas, hmu on Twitter.
 - 📫 How to reach me :
 Instagram: iamthatronaldosunmu
