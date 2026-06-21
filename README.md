@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ronald Dosunmu, Fullstack AI Engineer.
 - 👀 I’m interested in fullstack, cloud and mobile engineering. 
-- 🌱 Html | Css | Vanilla Javascript | Python | React.js| Node.js | Express.js | MongoDB | Mongoose | Next.js | Typescript | Context API | Tailwind CSS | SQL | PostgresSQL | MySQL | Redux | Vue.js | Nuxt.js. 
+- 🌱 Html | Css | Vanilla Javascript | Python | React.js| Node.js | Hono | Ruby on Rails | Express.js | MongoDB | Mongoose | Next.js | Typescript | Context API | Tailwind CSS | SQL | PostgresSQL | MySQL | Redux | Vue.js | Nuxt.js. 
 - 📫 How to reach me :
 Instagram: r0nald_d
 Twitter: @IamRonald05
