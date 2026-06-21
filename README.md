@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Ronald Dosunmu, Fullstack (FE - heavy) developer.
+- 👋 Hi, I’m Ronald Dosunmu, Fullstack AI Engineer.
 - 👀 I’m interested in fullstack, cloud and mobile engineering. 
 - 🌱 Html | Css | Vanilla Javascript | Python | React.js| Node.js | Express.js | MongoDB | Mongoose | Next.js | Typescript | Context API | Tailwind CSS | SQL | PostgresSQL | MySQL | Redux | Vue.js | Nuxt.js. 
-- 💞️ I’m looking to collaborate on some amazing projects, if you have any ideas, hmu on Twitter.
 - 📫 How to reach me :
-Instagram: iamthat_ronald
+Instagram: r0nald_d
 Twitter: @IamRonald05
 Gmail: ronaldosunmu@gmail.com
 
